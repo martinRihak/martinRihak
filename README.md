@@ -11,8 +11,8 @@ Jsem začínající IT vývojář z Ostravy s vášní pro backend a frontend de
 
 Přidej alespoň 3-5 projektů, které demonstrují tvé skills. Pokud je nemáš, vytvoř je (více níže).
 ## WordPress
-- **[VarmiTech](varmitech.cz)**: Komerční stránky pro firmu VarmiTech, která se zaměřuje na zakázkový 3D Tisk a Modelování.
-- **[Sádrokartony Řihák](sadrokartonyrihak.cz)**: Propagační stránky pro živnostníka v odvětvý Sádrokartonových konstrukcí.
+- **[VarmiTech](https://varmitech.cz)**: Komerční stránky pro firmu VarmiTech, která se zaměřuje na zakázkový 3D Tisk a Modelování.
+- **[Sádrokartony Řihák](https://sadrokartonyrihak.cz)**: Propagační stránky pro živnostníka v odvětvý Sádrokartonových konstrukcí.
 ## Languages and Tools
 <!-- Tvoje stávající sekce – vlož sem ty ikony -->
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <!-- a tak dále pro všechny --> </p>
