@@ -7,7 +7,7 @@ Jsem začínající IT vývojář z Ostravy s vášní pro backend a frontend de
 ## Moje projekty
 - **[Název projektu 1](odkaz na repo)**: Popis – např. Webová appka v Reactu a Node.js pro [co dělá]. Použité tech: React, Express, MongoDB.
 - **[Název projektu 2](odkaz na repo)**: Popis – např. Backend API v Jave se Springem pro [účel]. Použité tech: Java, Spring, MySQL.
-- **[Název projektu 3](odkaz na repo)**: Popis – např. Dockerizovaná appka s Kubernetes pro [účel]. Ukazuje mé DevOps skills.
+- **[WineFactory](https://github.com/martinRihak/WineFactory)**: Jednoduchá Django aplikace na sqLite databázi pro evidenti vín a vydávání objednávek. FrontEnd postavený na samostnatném html upravený pomocí W3 CSS.
 
 Přidej alespoň 3-5 projektů, které demonstrují tvé skills. Pokud je nemáš, vytvoř je (více níže).
 
