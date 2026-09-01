@@ -30,7 +30,7 @@ Věnuji se vývoji **full-stack a backendových aplikací**, práci s databázem
 
 ## 🌐 Komerční & Klientské weby
 
-* **[VarmiTech s.r.o.](https://varmitech.cz)** – Návrh a realizace webové prezentace pro firmu zaměřenou na zakázkový 3D tisk a modelování (responzivní design, SEO).
+* **[VarmiTech](https://varmitech.cz)** – Návrh a realizace webové prezentace pro firmu zaměřenou na zakázkový 3D tisk a modelování (responzivní design, SEO).
 * **[Sádrokartony Řihák](https://sadrokartonyrihak.cz)** – Webová prezentace a správa online profilu rodinné stavební firmy.
 * **[Slovácký soubor](https://slovackysouborsm.cz)**: Stránky a návrh pro folklórní soubor. 
 
